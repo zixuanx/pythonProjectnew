@@ -60,4 +60,4 @@ plt.show()
 
 # top 3 of the finalised data
 total_df = total_df.sort_values(ascending=False)
-print(total_df.head(3))
+print(total_df.head(3))9
